@@ -120,7 +120,6 @@
 	display: inline-block;
 	position:relative;
 	width:34.5%;
-	float:left;
 	padding:0px;
 }
 
@@ -128,7 +127,6 @@
 	display: inline-block;
 	position:below;
 	width:30.7%;
-	float: left;
 	padding:0px;
 	padding-right: 0.5px;
 }
